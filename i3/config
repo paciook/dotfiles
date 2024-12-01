@@ -180,7 +180,7 @@ bar {
 }
 
 # Set wallpaper
-exec --no-startup-id feh --bg-scale /home/pacio/Pictures/wallpaper.png
+exec --no-startup-id feh --bg-scale /home/pacio/Pictures/tux-wallpaper.png
 
 # Set the "lock-screen" shortcut
 bindsym $mod+l exec --no-startup-id i3lock
